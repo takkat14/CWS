@@ -1,2 +1,3 @@
 # CWS
-Some expirements in 
+Some expirements in Chinese Word Segmentation
+
